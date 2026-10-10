@@ -1,0 +1,2 @@
+# No external libraries are required.
+# This program uses only built-in Python functions: input() and print().
